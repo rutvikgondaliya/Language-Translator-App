@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1049746364513",
+    "project_id": "my-translator-9264b",
+    "storage_bucket": "my-translator-9264b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049746364513:android:b0b142bfe9f2aa5225f220",
+        "android_client_info": {
+          "package_name": "com.rutvik.mytranslator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049746364513-i2rn8vgkabj5stqrd8ko6e842cmeivgl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rutvik.mytranslator",
+            "certificate_hash": "cbd3394ab8e5ad961842748786671a5e6d9c91e5"
+          }
+        },
+        {
+          "client_id": "1049746364513-bahuhhoiqk1ucuh03bvg1ehl7f2cqatv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-4m6rFgSi83V1zAy00fm12bwYqrrYc08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049746364513-bahuhhoiqk1ucuh03bvg1ehl7f2cqatv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
